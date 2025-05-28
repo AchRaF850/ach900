@@ -1,25 +1,8 @@
+
 function GoldHEN212() {
-  ShowMSG = "Please wait...Loading GoldHEN 2.1.2!"
+  ShowMSG = "Please wait...Loading GoldHEN 2.4b18!"
   loadmsg();
-  PLfile = "GoldHEN212.bin"
-  poc();
-}
-function GoldHEN224() {
-  ShowMSG = "Please wait...Loading GoldHEN 2.2.4!"
-  loadmsg();
-  PLfile = "GoldHEN224.bin"
-  poc();
-}
-function GoldHEN23() {
-  ShowMSG = "Please wait...Loading GoldHEN 2.3!"
-  loadmsg();
-  PLfile = "GoldHEN23.bin"
-  poc();
-}
-function GoldHEN24b5() {
-  ShowMSG = "Please wait...Loading GoldHEN 2.4b5!"
-  loadmsg();
-  PLfile = "GoldHEN24b5.bin"
+  PLfile = "GoldHEN2.4b18.bin"
   poc();
 }
 
