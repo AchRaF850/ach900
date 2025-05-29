@@ -1,5 +1,5 @@
 
-function GoldHEN212() {
+function GoldHEN24b18() {
   ShowMSG = "Please wait...Loading GoldHEN 2.4b18!"
   loadmsg();
   PLfile = "GoldHEN2.4b18.bin"
